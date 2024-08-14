@@ -4,10 +4,10 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        sans: ["Manrope", "sans-serif"],
+        sans: ["inter", "sans-serif"],
       },
       colors: {
-        dark3: "#777777",
+        "box-shadows": "0px 7px 50px 0px rgba(0, 0, 0, 0.06)",
       },
     },
     plugins: [],
