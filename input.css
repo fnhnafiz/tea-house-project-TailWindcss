@@ -1,3 +1,10 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* .learn-more {
+  text-decoration: underline;
+} */
+.learn-more:hover {
+  text-decoration: underline;
+}
